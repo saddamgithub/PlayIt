@@ -1,2 +1,2 @@
 # PlayIt
-Basic learnings
+Web and App development
